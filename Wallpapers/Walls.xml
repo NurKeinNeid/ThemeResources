@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <substratum>
     <wallpaper id="First">
-        <link>https://github.com/xWASABI/ThemeResources/blob/master/Wallpapers/Images/Wallpaper1.png</link>
-        <preview>https://github.com/xWASABI/ThemeResources/blob/master/Wallpapers/Images/Wallpaper1.png</preview>
+        <link>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/Wallpaper1.png</link>
+        <preview>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/Wallpaper1.png</preview>
     </wallpaper>
 	
 	<wallpaper id="Second">
-        <link>https://github.com/xWASABI/ThemeResources/blob/master/Wallpapers/Images/Wallpaper2.png</link>
-        <preview>https://github.com/xWASABI/ThemeResources/blob/master/Wallpapers/Images/Wallpaper2.png</preview>
+        <link>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/Wallpaper2.png</link>
+        <preview>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/Wallpaper2.png</preview>
     </wallpaper>
 </substratum>
