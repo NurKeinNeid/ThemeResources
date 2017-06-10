@@ -1,13 +1,44 @@
 <?xml version="1.0"?>
 <substratum>
-	<!--
-    <wallpaper id="First">
-        <link>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/Wallpaper1.png</link>
-        <preview>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/Wallpaper1.png</preview>
-    </wallpaper>
-	-->
 	<wallpaper id="001">
         <link>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/Wallpaper2.png</link>
         <preview>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/Wallpaper2.png</preview>
     </wallpaper>
+	
+    <wallpaper id="@customworx - 001">
+	<link>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/mint.png</link>
+	<preview>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/mint.png</preview>
+    </wallpaper>
+	
+	<wallpaper id="@customworx - 002">
+		<link>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/mint-1.png</link>
+		<preview>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/mint-1.png</preview>
+    </wallpaper>
+	
+	<wallpaper id="@customworx - 003">
+		<link>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/mint-2.png</link>
+		<preview>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/mint-2.png</preview>
+    </wallpaper>
+
+	<wallpaper id="@customworx - 004">
+		<link>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/mint-3.png</link>
+		<preview>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/mint-3.png</preview>
+    </wallpaper>
+	
+
+	<wallpaper id="@customworx - 005">
+		<link>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/mint-4.png</link>
+		<preview>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/mint-4.png</preview>
+    </wallpaper>
+
+	<wallpaper id="@customworx - 006">
+		<link>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/mint-5.png</link>
+		<preview>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/mint-5.png</preview>
+    </wallpaper>
+
+	<wallpaper id="@customworx - 007">
+		<link>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/mint-6.png</link>
+		<preview>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/mint-6.png</preview>
+    </wallpaper>
+	
 </substratum>
