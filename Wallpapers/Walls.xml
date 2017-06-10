@@ -112,28 +112,28 @@
 
 	<wallpaper id="@customworx - 021">
 		<link>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/mint-20.png</link>
-		<preview>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/mint-8.png</preview>
-    </wallpaper>
-
-	<wallpaper id="@customworx - 022">
-		<link>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/mint-20.png</link>
 		<preview>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/mint-20.png</preview>
     </wallpaper>
 
-
-	<wallpaper id="@customworx - 023">
+	<wallpaper id="@customworx - 022">
 		<link>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/mint-21.png</link>
 		<preview>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/mint-21.png</preview>
     </wallpaper>
 
-	<wallpaper id="@customworx - 024">
+
+	<wallpaper id="@customworx - 023">
 		<link>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/mint-22.png</link>
 		<preview>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/mint-22.png</preview>
     </wallpaper>
 
-	<wallpaper id="@customworx - 025">
+	<wallpaper id="@customworx - 024">
 		<link>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/mint-23.png</link>
 		<preview>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/mint-23.png</preview>
+    </wallpaper>
+
+	<wallpaper id="@customworx - 025">
+		<link>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/mint-24.png</link>
+		<preview>https://raw.githubusercontent.com/xWASABI/ThemeResources/master/Wallpapers/Images/mint-24.png</preview>
     </wallpaper
 	
 </substratum>
